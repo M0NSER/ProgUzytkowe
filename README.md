@@ -1,3 +1,3 @@
 # ProgUzytkowe
-Autor: #Tomasz Sewruk
+#Tomasz Sewruk
 ##Opis projektu
